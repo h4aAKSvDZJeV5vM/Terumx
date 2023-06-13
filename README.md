@@ -1,0 +1,2 @@
+# Terumx
+./install-nethunter-termux
